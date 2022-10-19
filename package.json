@@ -1,0 +1,25 @@
+{
+  "name": "trocacores",
+  "version": "1.0.0",
+  "description": "projeto que testa troca cores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManoelMateusBorges/TrocaCores.git"
+  },
+  "author": "Manoel Mateus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManoelMateusBorges/TrocaCores/issues"
+  },
+  "homepage": "https://github.com/ManoelMateusBorges/TrocaCores#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "typescript": "^4.8.4"
+  }
+}
